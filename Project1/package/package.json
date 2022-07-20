@@ -1,0 +1,7 @@
+{
+  "name": "game-socket",
+  "version": "1.0.0",
+  "description": "Using websockets with game",
+  "dependencies": {
+  }
+}
